@@ -6,17 +6,14 @@
     <title>complete responsive tour and travel agency website design tutorial</title>
 
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-
-    <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <!-- custom css file link  -->
+
     <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
-    
-<!-- header section starts  -->
+  
 
 <header>
 
@@ -46,10 +43,6 @@
 
 </header>
 
-<!-- header section ends -->
-
-<!-- login form container  -->
-
 <div class="login-form-container">
 
     <i class="fas fa-times" id="form-close"></i>
@@ -66,8 +59,6 @@
     </form>
 
 </div>
-
-<!-- home section starts  -->
 
 <section class="home" id="home">
 
@@ -91,9 +82,6 @@
 
 </section>
 
-<!-- home section ends -->
-
-<!-- book section starts  -->
 
 <section class="book" id="book">
 
@@ -137,10 +125,6 @@
     </div>
 
 </section>
-
-<!-- book section ends -->
-
-<!-- packages section starts  -->
 
 <section class="packages" id="packages">
 
@@ -263,9 +247,6 @@
 
 </section>
 
-<!-- packages section ends -->
-
-<!-- services section starts  -->
 
 <section class="services" id="services">
 
@@ -316,10 +297,6 @@
     </div>
 
 </section>
-
-<!-- services section ends -->
-
-<!-- gallery section starts  -->
 
 <section class="gallery" id="gallery">
 
@@ -412,10 +389,6 @@
 
 </section>
 
-<!-- gallery section ends -->
-
-<!-- review section starts  -->
-
 <section class="review" id="review">
 
     <h1 class="heading">
@@ -494,10 +467,6 @@
 
 </section>
 
-<!-- review section ends -->
-
-<!-- contact section starts  -->
-
 <section class="contact" id="contact">
     
     <h1 class="heading">
@@ -532,10 +501,6 @@
     </div>
     
 </section>
-
-<!-- contact section ends -->
-
-<!-- brand section  -->
 <section class="brand-container">
 
     <div class="swiper-container brand-slider">
@@ -550,8 +515,6 @@
     </div>
 
 </section>
-
-<!-- footer section  -->
 
 <section class="footer">
 
@@ -594,22 +557,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
 <script src="js/script.js"></script>
 
 </body>
